@@ -1,1 +1,1 @@
-https://github.com/kor1du/team-project.git
+https://github.com/JangDongHa/team-project.git
